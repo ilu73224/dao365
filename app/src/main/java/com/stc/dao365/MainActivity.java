@@ -1,4 +1,4 @@
-package com.stcsw.dao365;
+package com.stc.dao365;
 
 import android.app.Activity;
 import android.media.MediaPlayer;

@@ -4,7 +4,7 @@ android {
     compileSdkVersion 25
     buildToolsVersion '25.0.2'
     defaultConfig {
-        applicationId "com.stcsw.dao365"
+        applicationId "com.stc.dao365"
         minSdkVersion 23
         targetSdkVersion 25
         versionCode 1
